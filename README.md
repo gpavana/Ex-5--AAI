@@ -1,8 +1,7 @@
-<H3>NAME: PAVANA G</H3>
-<H3>REGISTER NO:212222230105</H3>
-<H3>EX. NO.5</H3>
-<H3>DATE:</H3>
-<H1 ALIGN =CENTER> Implementation of Kalman Filter</H1>
+<H1>Experiment:5 Implementation of Kalman Filter</H1>
+<H1>Date:</H1>
+<H3>Name:PAVANA G</H3>
+<H3>Register No:212222230105</H3>
 <H3>Aim:</H3> To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
 
 ### Algorithm:
@@ -62,7 +61,7 @@ plt.show()
 ### Output:
 ![1 1a](https://github.com/user-attachments/assets/3b36cdb2-96e8-4085-a08b-09a55eef5a23)
 
-<H3>Results:</H3>
+### Results:
 Thus, Kalman filter is implemented to predict the next position and   velocity in Python
 
 
